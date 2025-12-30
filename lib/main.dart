@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:w2_natiee_sit22/rectangle_page.dart';
-import 'package:w2_natiee_sit22/temperature_page.dart';
-import 'package:w2_natiee_sit22/home_page.dart';
+import './rectangle_page.dart';
+import './temperature_page.dart';
+import './home_page.dart';
 
 void main() {
   runApp(const MyApp());
